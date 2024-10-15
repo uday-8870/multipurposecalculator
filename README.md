@@ -23,7 +23,7 @@ Installation:
 
 Clone the repository:
 Bash
-git clone [<your_repository_url>](https://github.com/uday-8870/multipurposecalculator)
+git clone https://github.com/uday-8870/multipurposecalculator
 Use code with caution.
 
 Install dependencies:
